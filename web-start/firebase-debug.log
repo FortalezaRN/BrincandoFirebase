@@ -1,0 +1,14 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\redes\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.0.4
+[debug] Platform:     win32
+[debug] Node Version: v4.4.7
+[debug] Time:         Fri Jul 08 2016 17:01:28 GMT-0300 (Hora oficial do Brasil)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: E:\friendlychat-master\web-start
+[info] Public Directory: /
+[info] 
+[info] Server listening at: http://localhost:5000
